@@ -40,6 +40,6 @@
   },
   "dependencies": {
     "gsap": "file:gsap-bonus.tgz",
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   }
 }
